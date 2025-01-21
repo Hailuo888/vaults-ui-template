@@ -7,6 +7,6 @@
         {
             "path": "/api/cron/vaults/vault-snapshots",
             "schedule": "0 0 * * *"
-        },
+        }
     ]
 }
